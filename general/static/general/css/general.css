@@ -1,0 +1,22 @@
+body{
+    background: chartreuse;
+}
+aside{
+    float: left;
+    width: 20%;
+    background: aqua;
+    padding: 2.5%;
+    height: 100vh;
+    color: brown;
+    border-right: 5px solid black;
+}
+aside img{
+    width: 80px;
+    float: left;
+}
+aside logo{
+    font-size: 40px;
+    font-weight: bold;
+    float: left;
+    margin-left: 10px;
+}
